@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on: **Web Development & Game Development Projects**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/jancocalitz)  
 - 📫 Reach me at: **calitzjanco@gmail.com**  
-- 📄 Learn more about my experiences: [My CV](CV LINK)  
+- 📄 Learn more about my experiences: [My CV](https://github.com/JancoCalitz/Janco_CV)
 - ⚡ Fun fact: *I’m developing my first official game — a top-down 2D pixel-art shooter — while studying full-time.*  
 
 ---

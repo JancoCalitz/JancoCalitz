@@ -15,7 +15,7 @@
 - 📫 Reach me at: **calitzjanco@gmail.com**  
 - 📄 Learn more about my experiences: [My CV](https://github.com/JancoCalitz/Janco_CV)
 - ⚡ Fun fact: *I’m developing my first official game — a top-down 2D pixel-art shooter — while studying full-time.*
-- 🏷️ For my game development based projects, I publish under the developer alias **Penta**
+- 🏷️ I publish many of my development projects under the alias **Penta**.
 
 ---
 

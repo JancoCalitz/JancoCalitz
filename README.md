@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on: **Minecraft Plugin Development**  
-- 🌱 Currently studying: **BCom Honours Informatics**  
+- 🌱 Got my Degree: **BCom Honours Informatics**  
 - 👯 Looking to collaborate on: **Web Development & Game Development Projects**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/jancocalitz)  
 - 📫 Reach me at: **calitzjanco@gmail.com**  
